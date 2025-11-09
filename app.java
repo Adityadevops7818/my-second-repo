@@ -16,6 +16,7 @@ public class AddNumbers {
         input.close();
     }
 }
+<<<<<<< Updated upstream
 //Second code beigns here
 public class MyMethods {
     // A method that prints a message
@@ -26,5 +27,23 @@ public class MyMethods {
     public static void main(String[] args) {
         greetUser("Alice"); // Calling the method
         greetUser("Bob");
+=======
+new code by developer 1 
+class Dog {
+    String breed;
+    String name;
+
+    void bark() {
+        System.out.println(name + " barks!");
+    }
+}
+
+public class ObjectExample {
+    public static void main(String[] args) {
+        Dog myDog = new Dog(); // Creating an object of Dog class
+        myDog.breed = "Golden Retriever";
+        myDog.name = "Buddy";
+        myDog.bark(); // Calling a method on the object
+>>>>>>> Stashed changes
     }
 }
