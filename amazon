@@ -1,0 +1,7 @@
+<!DOCTYPE html>: This declaration defines the document type and version of HTML being used (in this case, HTML5).
+<html>: This is the root element of the HTML page, encompassing all other elements.
+<head>: This section contains metadata about the HTML document, such as the page title, links to stylesheets, or scripts. This content is not directly displayed on the web page.
+<title>: This element within the <head> defines the title of the web page, which appears in the browser's title bar or tab.
+<body>: This section contains the visible content of the web page, including text, images, links, and other interactive elements.
+<h1>: This is a heading element, representing the main heading of the page. HTML offers six levels of headings, from <h1> (largest) to <h6> (smallest).
+<p>: This element defines a paragraph of text.
