@@ -16,3 +16,15 @@ public class AddNumbers {
         input.close();
     }
 }
+//Second code beigns here
+public class MyMethods {
+    // A method that prints a message
+    static void greetUser(String name) {
+        System.out.println("Hello, " + name + "!");
+    }
+
+    public static void main(String[] args) {
+        greetUser("Alice"); // Calling the method
+        greetUser("Bob");
+    }
+}
