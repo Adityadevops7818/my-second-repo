@@ -47,3 +47,4 @@ public class ObjectExample {
 >>>>>>> Stashed changes
     }
 }
+WE are adding some data in thie file beacuse new deveploer want to add new web page design
